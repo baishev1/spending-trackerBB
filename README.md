@@ -56,7 +56,7 @@ Predict transaction `amount` based on:
 
 ### Actual vs Predicted Spending
 
-*![Actual vs Predicted](images/actual_vs_predicted.png)*
+![Actual vs Predicted](images/actual_vs%20_predicted.png)
 
 ---
 
