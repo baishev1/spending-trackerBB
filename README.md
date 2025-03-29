@@ -77,6 +77,6 @@ Predict transaction `amount` based on:
 ---
 
 ## Author
-**[Bassar Baishev]**
+**Bassar Baishev**
 
 ---
